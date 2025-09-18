@@ -2,7 +2,7 @@
 
 A simple quiz app built with Flutter.
 
-## 🚀 About Me
+##  About Me
 I'm a FullStack developer with a passion for playing around with different technlogies Creates this as a playground for revisin of flutter Basic concepts.
 
 ## Features
